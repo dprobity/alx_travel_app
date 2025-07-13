@@ -1,1 +1,3 @@
 alx_travel_app_venv/
+.env
+__pycache__/
